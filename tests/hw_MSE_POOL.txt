@@ -1,0 +1,306 @@
+///////  GD-FS-NHDL-MSE-1.MAN.NE40E 大沥MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:24499
+    used_rate:37%
+e8manage:
+    poolLen:40885
+    used:33942
+    used_rate:83%
+iptv.gd:
+    poolLen:5105
+    used:2917
+    used_rate:57%
+pub.163.gd:
+    poolLen:4337
+    used:1268
+    used_rate:29%
+///////  GD-FS-NHDL-MSE-2.MAN.NE40E 大沥MSE-2  ///////
+163.gd:
+    poolLen:65533
+    used:12728
+    used_rate:19%
+e8manage:
+    poolLen:21471
+    used:17795
+    used_rate:82%
+iptv.gd:
+    poolLen:2042
+    used:1376
+    used_rate:67%
+pub.163.gd:
+    poolLen:2295
+    used:594
+    used_rate:25%
+///////  GD-FS-NHLS-MSE-1.MAN.NE40E 里水MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:27195
+    used_rate:41%
+e8manage:
+    poolLen:39867
+    used:33610
+    used_rate:84%
+iptv.gd:
+    poolLen:6126
+    used:4569
+    used_rate:74%
+pub.163.gd:
+    poolLen:2295
+    used:1537
+    used_rate:66%
+///////  GD-FS-NHLS-MSE-2.MAN.NE40E 里水MSE-2  ///////
+163.gd:
+    poolLen:65533
+    used:12922
+    used_rate:19%
+e8manage:
+    poolLen:22492
+    used:17703
+    used_rate:78%
+iptv.gd:
+    poolLen:3063
+    used:1463
+    used_rate:47%
+pub.163.gd:
+    poolLen:2295
+    used:930
+    used_rate:40%
+///////  GD-FS-NHXQ-MSE-1.MAN.NE40E 西樵MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:21907
+    used_rate:33%
+e8manage:
+    poolLen:39867
+    used:33009
+    used_rate:82%
+iptv.gd:
+    poolLen:3063
+    used:2131
+    used_rate:69%
+pub.163.gd:
+    poolLen:2295
+    used:1460
+    used_rate:63%
+///////  GD-FS-NHXQ-MSE-2.MAN.NE40E 西樵MSE-2  ///////
+163.gd:
+    poolLen:65533
+    used:9055
+    used_rate:13%
+e8manage:
+    poolLen:16354
+    used:13622
+    used_rate:83%
+iptv.gd:
+    poolLen:2042
+    used:1062
+    used_rate:52%
+pub.163.gd:
+    poolLen:1274
+    used:579
+    used_rate:45%
+///////  GD-FS-NHHQ-MSE-1.MAN.NE40E 黄岐MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:25269
+    used_rate:38%
+e8manage:
+    poolLen:38849
+    used:32554
+    used_rate:83%
+iptv.gd:
+    poolLen:6126
+    used:3516
+    used_rate:57%
+pub.163.gd:
+    poolLen:4337
+    used:1120
+    used_rate:25%
+///////  GD-FS-NHHQ-MSE-2.MAN.NE40E 黄岐MSE-2  ///////
+163.gd:
+    poolLen:65533
+    used:9410
+    used_rate:14%
+e8manage:
+    poolLen:15336
+    used:11835
+    used_rate:77%
+iptv.gd:
+    poolLen:3064
+    used:1101
+    used_rate:35%
+pub.163.gd:
+    poolLen:2295
+    used:527
+    used_rate:22%
+///////  GD-FS-NHYB-MSE-1.MAN.NE40E 盐步MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:21704
+    used_rate:33%
+e8manage:
+    poolLen:35780
+    used:30844
+    used_rate:86%
+iptv.gd:
+    poolLen:4084
+    used:2274
+    used_rate:55%
+pub.163.gd:
+    poolLen:2804
+    used:1894
+    used_rate:67%
+///////  GD-FS-NHYB-MSE-2.MAN.NE40E 盐步MSE-2  ///////
+163.gd:
+    poolLen:65533
+    used:10094
+    used_rate:15%
+e8manage:
+    poolLen:18402
+    used:14781
+    used_rate:80%
+iptv.gd:
+    poolLen:2042
+    used:1031
+    used_rate:50%
+pub.163.gd:
+    poolLen:1274
+    used:775
+    used_rate:60%
+///////  GD-FS-NHJS-MSE-1.MAN.NE40E 金沙MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:6751
+    used_rate:10%
+e8manage:
+    poolLen:32702
+    used:8900
+    used_rate:27%
+iptv.gd:
+    poolLen:7147
+    used:1146
+    used_rate:16%
+pub.163.gd:
+    poolLen:2292
+    used:348
+    used_rate:15%
+///////  GD-FS-NHJS-MSE-3.MAN.NE40E 金沙MSE-3  ///////
+163.gd:
+    poolLen:65533
+    used:13732
+    used_rate:20%
+e8manage:
+    poolLen:30630
+    used:17594
+    used_rate:57%
+iptv.gd:
+    poolLen:4084
+    used:1704
+    used_rate:41%
+pub.163.gd:
+    poolLen:2551
+    used:667
+    used_rate:26%
+///////  GD-FS-NHJS-MSE-4.MAN.NE40E 金沙MSE-4  ///////
+163.gd:
+    poolLen:65533
+    used:10053
+    used_rate:15%
+e8manage:
+    poolLen:21441
+    used:14546
+    used_rate:67%
+iptv.gd:
+    poolLen:3063
+    used:1123
+    used_rate:36%
+pub.163.gd:
+    poolLen:1530
+    used:598
+    used_rate:39%
+///////  GD-FS-NHGJ-MSE-1.MAN.NE40E 桂江MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:18089
+    used_rate:27%
+e8manage:
+    poolLen:25552
+    used:20940
+    used_rate:81%
+iptv.gd:
+    poolLen:2042
+    used:996
+    used_rate:48%
+pub.163.gd:
+    poolLen:2295
+    used:1350
+    used_rate:58%
+///////  GD-FS-NHGJ-MSE-2.MAN.NE40E 桂江MSE-2  ///////
+163.gd:
+    poolLen:65533
+    used:16232
+    used_rate:24%
+e8manage:
+    poolLen:24528
+    used:20464
+    used_rate:83%
+iptv.gd:
+    poolLen:2042
+    used:924
+    used_rate:45%
+pub.163.gd:
+    poolLen:2295
+    used:681
+    used_rate:29%
+///////  GD-FS-NHPZ-MSE-1.MAN.NE40E 平洲MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:25909
+    used_rate:39%
+e8manage:
+    poolLen:42930
+    used:34686
+    used_rate:80%
+iptv.gd:
+    poolLen:3063
+    used:1851
+    used_rate:60%
+pub.163.gd:
+    poolLen:2295
+    used:1340
+    used_rate:58%
+///////  GD-FS-NHPZ-MSE-2.MAN.NE40E 平洲MSE-2  ///////
+163.gd:
+    poolLen:65533
+    used:9926
+    used_rate:15%
+e8manage:
+    poolLen:18405
+    used:13737
+    used_rate:74%
+iptv.gd:
+    poolLen:2042
+    used:896
+    used_rate:43%
+pub.163.gd:
+    poolLen:2295
+    used:713
+    used_rate:31%
+///////  GD-FS-NHJJ-MSE-1.MAN.NE40E 九江MSE-1  ///////
+163.gd:
+    poolLen:65533
+    used:19716
+    used_rate:30%
+e8manage:
+    poolLen:35777
+    used:29545
+    used_rate:82%
+iptv.gd:
+    poolLen:2042
+    used:1257
+    used_rate:61%
+pub.163.gd:
+    poolLen:2295
+    used:922
+    used_rate:40%
